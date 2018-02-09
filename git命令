@@ -1,0 +1,35 @@
+git add .添加当前目录到暂存区
+git state 查看状态
+git commit -m '当前修改'
+git push 推送
+
+git pul 拉取
+
+
+git clone 地址 -name
+
+git branch 分支名称
+git checkout  切出分支
+
+拷贝FLFramework到build的src/fl-framework-assets/
+对比setting文件内的md5值
+修改index
+修改连接css样式cdn路径
+修改连接settings样式cdn路径
+修改连接main样式cdn路径
+
+修改main文件
+添加cdn前缀路径
+libraryPath
+rawAssetsBase
+settings
+jsList.map 。。。
+cocos2d-js-min
+
+最后修改服务器的index等setting和main md5
+修改连接settings样式cdn路径
+修改连接main样式cdn路径
+
+321去掉
+弹幕加上暴击
+
