@@ -1,0 +1,115 @@
+抢一抢
+发一发
+抢抢抢
+钱来了
+你发我抢
+我发你抢
+我发你们抢
+money来了
+恭喜发财
+来，抢一包
+来，抢几包
+摇一包
+摇几包
+偷一包
+偷几包
+抢一包
+抢几包
+一起抢
+拖住我偷包
+趣味发
+猥琐抢包
+猥琐抢一包
+猥琐抢几包
+偷偷抢一包
+偷偷抢几包
+猥琐偷包
+猥琐偷几包
+猥琐偷一包
+
+
+
+
+
+
+小游戏：
+
+    
+    熊猫爬竹竿
+    
+    
+    
+    
+    
+    1、游戏和小程序通信webview
+    2、引擎的选择、cocos js 或者 creator litor包
+    
+    
+    
+    
+
+    一盘的时间不能超过三分钟
+
+    游戏分类：
+    益智类
+        头脑王者
+        谁是卧底
+        萌娃去哪儿：http://xi22.com/game/show-95.html?#h
+        疯狂的方块：
+        果蔬达人：https://www.kxtui.com/gset.jsp?pn=1
+        2020连接:http://g.51h5.com/ori/263216/cf9824ae/v1/
+        挑战古诗词：http://shicishijie.net/poemfill/
+    手残党
+        像素鸟flappy bird（http://xi22.com/game/show-45.html?#h）
+        别踩白块：http://www.4399.com/flash/188993_3.htm
+        涂鸦跳跃：http://www.h5uc.com/play-72978.html
+        几何冲刺：http://www.u77.com/game/13772
+        抓娃娃
+        贪吃蛇
+        68小鸟：http://xi22.com/game/show-171.html?#h
+        自己来建房：http://xi22.com/game/show-91.html?#h
+        都市摩天楼：http://www.3366.com/flash/10427.shtml
+        星际摩托：http://xi22.com/game/show-75.html?#h
+        火柴人逃亡：http://xi22.com/game/show-170.html?#h
+        贱鸟跳跳：http://xi22.com/game/show-93.html?#h
+        通过音乐之路：http://www.4399.com/flash/194537_4.htm
+        彩色流域：http://www.u77.com/game/12501
+        超级虐跳：https://www.kxtui.com/g/cjnt/index.jsp
+        多开条子：https://www.kxtui.com/g/dktz/index.jsp
+        是男人就下一百层：https://www.kxtui.com/g/xlt/index.jsp
+        色域迷惑：https://www.kxtui.com/g/symh/index.jsp
+        U型跑道急速漂移：http://www.paopaoche.net/h5/191177.html
+        战斗补砖块：http://www.juzih5.com/danji/yizhi/15.html
+        小鸟快跑：http://m.xiaoshuomi.cc/play/106726.html
+        旋转颜色挑战：http://m.xiaoshuomi.cc/play/106517.html
+    休闲类
+        2048:http://www.4399.com/flash/133861.htm
+        找你妹：http://h.4399.com/play/151301.htm
+        切水果：http://www.4399.com/flash/142813.htm
+        愤怒的小鸟：http://www.4399.com/flash/138867_1.htm
+        泡泡龙：http://xi22.com/game/show-62.html?#h
+        连连看：http://www.4399.com/flash/151870.htm
+        抢车位
+        QQ农场
+        你画我猜
+        速度台球：http://www.paopaoche.net/h5/174071.html
+        黄金矿工
+        马路杀手：http://xi22.com/game/show-166.html?#h
+        见缝插针：http://www.4399.com/flash/152752_2.htm
+        跳跳蛙：https://www.kxtui.com/g/ttw/index.jsp
+        橄榄球冲击：http://www.paopaoche.net/h5/181028.html
+        对对碰：http://m.xiaoshuomi.cc/play/106419.html
+    射击类
+        飞机大战
+        忍者突袭：http://xi22.com/game/show-164.html?#h
+        苹果菠萝笔：http://www.4399.com/flash/184609_1.htm
+        守护城墙：http://www.paopaoche.net/h5/134535.html
+    卡牌类    
+        大家一起来接龙：http://www.paopaoche.net/h5/205116.html
+    策略类
+        
+    游戏立项
+    出产品：产品顺序，创新
+    轻度广告，在loading或者游戏开始、游戏开始前的loding的界面加载5秒左右的广告。
+    加载公司名称（UI）、点击后跳转app或打开网页
+    
